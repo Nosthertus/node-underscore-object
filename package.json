@@ -1,0 +1,24 @@
+{
+  "name": "underscore-object",
+  "version": "0.1.0",
+  "description": "Convert your underscored properties into nested object or vice-versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "underscore",
+    "object",
+    "parsing",
+    "nested-object"
+  ],
+  "author": "Oscar Reyes <nosthertus@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "utils-pkg": "^1.1.0"
+  }
+}
